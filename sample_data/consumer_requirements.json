@@ -1,0 +1,10 @@
+{
+  "required": {
+    "id": "int",
+    "age": "int"
+  },
+  "optional": {
+    "email": "string",
+    "name": "string"
+  }
+}
